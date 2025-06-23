@@ -11,4 +11,5 @@ function f2(){
 
 const name2 = "rohit";
 
-
+const bug = "bug";
+console.log(bug);

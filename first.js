@@ -13,3 +13,6 @@ const name2 = "rohit";
 
 const bug = "bug";
 console.log(bug);
+
+console.log("ankit ");
+console.log("singh");

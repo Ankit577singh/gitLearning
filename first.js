@@ -20,3 +20,10 @@ console.log("singh");
 console.log("chauhan");
 
 console.log("git latest update");
+
+// i am fix some bug
+function bug(){
+    console.log("fix bug");
+} 
+
+bug();

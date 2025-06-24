@@ -27,3 +27,8 @@ function bug(){
 } 
 
 bug();
+
+
+function change(){
+    console.log("i change the code some part ");
+}
